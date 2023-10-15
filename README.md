@@ -7,4 +7,6 @@ Version 0.1 - Proof of Concept
 - One one golf course, Ely City Golf Club, www.elygolf.co.uk
 - Delivered via Python shell
 
-Version 0.2 - Build GUI
+Version 0.2 - Build MVP
+- Name each player
+- Build delivery via a GUI
