@@ -1,0 +1,83 @@
+player1_scorecard = {
+    "h1gross": 0, "h1nett": 0,
+    "h2gross": 0, "h2nett": 0,
+    "h3gross": 0, "h3nett": 0,
+    "h4gross": 0, "h4nett": 0,
+    "h5gross": 0, "h5nett": 0,
+    "h6gross": 0, "h6nett": 0,
+    "h7gross": 0, "h7nett": 0,
+    "h8gross": 0, "h8nett": 0,
+    "h9gross": 0, "h9nett": 0,
+    "h10gross": 0, "h10nett": 0,
+    "h11gross": 0, "h11nett": 0,
+    "h12gross": 0, "h12nett": 0,
+    "h13gross": 0, "h13nett": 0,
+    "h14gross": 0, "h14nett": 0,
+    "h15gross": 0, "h15nett": 0,
+    "h16gross": 0, "h16nett": 0,
+    "h17gross": 0, "h17nett": 0,
+    "h18gross": 0, "h18nett": 0
+    }
+
+player2_scorecard = {
+    "h1gross": 0, "h1nett": 0,
+    "h2gross": 0, "h2nett": 0,
+    "h3gross": 0, "h3nett": 0,
+    "h4gross": 0, "h4nett": 0,
+    "h5gross": 0, "h5nett": 0,
+    "h6gross": 0, "h6nett": 0,
+    "h7gross": 0, "h7nett": 0,
+    "h8gross": 0, "h8nett": 0,
+    "h9gross": 0, "h9nett": 0,
+    "h10gross": 0, "h10nett": 0,
+    "h11gross": 0, "h11nett": 0,
+    "h12gross": 0, "h12nett": 0,
+    "h13gross": 0, "h13nett": 0,
+    "h14gross": 0, "h14nett": 0,
+    "h15gross": 0, "h15nett": 0,
+    "h16gross": 0, "h16nett": 0,
+    "h17gross": 0, "h17nett": 0,
+    "h18gross": 0, "h18nett": 0
+    }
+
+player3_scorecard = {
+    "h1gross": 0, "h1nett": 0,
+    "h2gross": 0, "h2nett": 0,
+    "h3gross": 0, "h3nett": 0,
+    "h4gross": 0, "h4nett": 0,
+    "h5gross": 0, "h5nett": 0,
+    "h6gross": 0, "h6nett": 0,
+    "h7gross": 0, "h7nett": 0,
+    "h8gross": 0, "h8nett": 0,
+    "h9gross": 0, "h9nett": 0,
+    "h10gross": 0, "h10nett": 0,
+    "h11gross": 0, "h11nett": 0,
+    "h12gross": 0, "h12nett": 0,
+    "h13gross": 0, "h13nett": 0,
+    "h14gross": 0, "h14nett": 0,
+    "h15gross": 0, "h15nett": 0,
+    "h16gross": 0, "h16nett": 0,
+    "h17gross": 0, "h17nett": 0,
+    "h18gross": 0, "h18nett": 0
+    }
+
+player4_scorecard = {
+    "h1gross": 0, "h1nett": 0,
+    "h2gross": 0, "h2nett": 0,
+    "h3gross": 0, "h3nett": 0,
+    "h4gross": 0, "h4nett": 0,
+    "h5gross": 0, "h5nett": 0,
+    "h6gross": 0, "h6nett": 0,
+    "h7gross": 0, "h7nett": 0,
+    "h8gross": 0, "h8nett": 0,
+    "h9gross": 0, "h9nett": 0,
+    "h10gross": 0, "h10nett": 0,
+    "h11gross": 0, "h11nett": 0,
+    "h12gross": 0, "h12nett": 0,
+    "h13gross": 0, "h13nett": 0,
+    "h14gross": 0, "h14nett": 0,
+    "h15gross": 0, "h15nett": 0,
+    "h16gross": 0, "h16nett": 0,
+    "h17gross": 0, "h17nett": 0,
+    "h18gross": 0, "h18nett": 0
+    }
